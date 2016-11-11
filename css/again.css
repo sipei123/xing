@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+body{margin:0;padding:0;background: #eee;}
+.syy_head{width:16rem;height:2.52rem;background: #f9f7fa;border-bottom: 0.014rem solid #c9c9c9;}
+.syy_head .img1{width:0.64rem;height:1.01rem;display: block;float: left;margin:0.81rem 0 0 0.64rem;}
+.syy_head  .syy_zhu{float: left;display: block;width:1.69rem;height:0.79rem;margin:0.88rem 0 0 0.19rem;font-size: 0.74rem;}
+.syy_head  .syy_deng{font-size: 0.74rem;width:1.69rem;height:0.79rem;margin:0.88rem 0 0 10.19rem;float: left;display: block;}
+.syy_tu{width:5.10rem;height:4.82rem;margin:0 auto;margin-top: 1.24rem;}
+.syy_tu img{width:3.59rem;height:3.61rem;}
+.syy_tu  p{width:3.59rem;height:1.21rem;font-size:0.59rem;text-align: center;}
+.syy_shou{width:12.74rem;height:1.93rem;margin:0 auto;text-align:center;font-size: 0.73rem;margin-top: 1.61rem;}
+.syy_shide{width:15.14rem;height:8.43rem;margin:0 auto;margin-top: 1.04rem;}
+.syy_shide .btn1{width:15.14rem;height:2.16rem;background: #ff4400;border:none;border-radius:0.2rem;font-size: 0.67rem;}
+.syy_shide .btn1 a{color: white;text-decoration: none;}
+.syy_shide .btn2{width:15.14rem;height:2.16rem;border:0.030rem solid #ff4400;border-radius:0.2rem;color:#ff4400;font-size: 0.67rem;margin-top: 1.48rem}
+.syy_shide .btn3{width:15.14rem;height:2.16rem;border:0.030rem solid #ff4400;border-radius:0.2rem;color:#ff4400;font-size: 0.67rem;margin-top: 0.44rem;}

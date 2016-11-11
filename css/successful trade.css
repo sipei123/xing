@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,h1,h2,h3,p,div{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+.mg_lx{width: 16rem;height: 27.35rem;}
+.mg_lx_div{width: 16rem;height: 2.366rem;background: #f9f9f9;}
+.mg_lx_div1{height: 2.366rem;line-height: 2.366rem;margin-left: 0.316rem;float: left;}
+.mg_lx_div1 a{text-decoration: none;}
+.mg_lx_div2{width: 1.683rem;height: 2.366rem;float: left;margin-left: 6.966rem;}
+.mg_lx_div2 img{width: 1.683rem;height: 2.366rem;}
+.mg_lx_div3{width: 1.683rem;height: 2.366rem;float:right;}
+.mg_lx_div3 img{width: 1.683rem;height: 2.366rem;}
+.mg_lx_div4{width: 16rem;height: 4.916rem;}
+.mg_lx_div4 img{width: 16rem;height: 4.916rem;}
+.mg_lx_div5{width: 16rem;height: 3.383rem;float: left;}
+.mg_lx_div5 input{width: 6.533rem;height: 1.7rem;background: #fff;border: 0.05rem solid #999;border-radius: 0.166rem;}
+.mg_lx_int1{margin-left: 1rem;margin-top: 0.733rem;}
+.mg_lx_int2{margin-left: 1rem;margin-top: 0.733rem;}
+.mg_lx_div6{width: 16rem;height: 2.2rem;background-image: url(../img/mg_3.png);background-size:100% 100%;float: left}
+.mg_lx_div7{height: 2.2rem;line-height: 2.2rem;margin-left: 7rem;font-size: 0.3rem;}
+.mg_lx_div8{width: 16rem;height: 14.616rem;}
+.mg_lx_div8_1{width: 8rem;height: 14.616rem;float:left;}
+.mg_lx_tp{width: 8rem;height: 8.5rem;}
+.mg_lx_tp img{width: 8rem;height: 8.5rem;}
+.mg_lx_wz{color: #021a26;margin-top: 0.5rem;line-height: 0.733rem;height:2rem;font-size: 0.3rem;}
+.mg_lx_p{height:1.2rem;color: #ff5400;font-size:0.3rem;}
+.mg_lx_wz1{width: 8rem;height: 1.6rem;background: #f5f5f5;line-height: 1.6rem;font-size: 0.3rem;}
+.mg_lx_div8_2{width: 8rem;height: 14.616rem;float:right;}
+.mg_lx_tp1{width: 8rem;height: 8.5rem;}
+.mg_lx_tp1 img{width: 8rem;height: 8.5rem;}
+.mg_lx_wz2{color: #021a26;margin-top: 0.5rem;line-height: 0.733rem;height:2rem;font-size: 0.3rem;}
+.mg_lx_p1{height:1.2rem;color: #ff5400;font-size:0.3rem;}
+.mg_lx_wz3{width: 8rem;height: 1.6rem;background: #f5f5f5;line-height: 1.6rem;font-size: 0.3rem;}

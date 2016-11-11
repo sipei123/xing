@@ -1,0 +1,35 @@
+body,ul,h1,h2,h3,p,div,a{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+.mg_yj_div1{width: 16rem;height: auto;background:#eee;}
+.mg_yj_div1_1{width:16rem;height:4.966rem;background: #fe5200;}
+.mg_yj_shezhi{width: 16rem;height: 1.866rem;}
+.mg_shezhi{width: 12.6rem;height: 0.983rem;text-align: right;font-size: 0.4rem;float: left;margin-top: 0.883rem;}
+.mg_shezhi a{color:#000;}
+.mg_img{width: 3rem;height: 1.866rem;float: left;}
+.mg_img img{width: 1.35rem;height: 1.5rem;margin-left: 1.2rem;margin-top: 0.25rem;}
+.mg_yj_touxiang{width: 16rem;height: 3.1rem;}
+.mg_touxiang{width:3rem;height:3.1rem;float: left;}
+.mg_touxiang img{width:2.416rem;height: 2.416rem;margin-left: 0.6rem;}
+.mg_nicheng{width: 5.367rem;height: 3.1rem;float: left;font-size: 0.4rem;line-height: 2rem;margin-left: 0.466rem;}
+.mg_erweima{width: 0.666rem;height: 2.867rem;float: left;margin-left: 0.633rem;margin-top: 0.233rem;}
+.mg_erweima img{width: 0.666rem;height: 0.666rem;}
+.mg_huiyuan{width: 3rem;height: 2.633rem;float: left;margin-top:0.6rem;margin-left:2.85rem;}
+.mg_huiyuan img{width:3rem;height: 1.2rem;}
+.mg_yj_div1_2{width:16rem;height: 5.483rem;margin-top:0.666rem;}
+.mg_dingdan{width:16rem;height: 2.2rem;border-bottom: 0.033rem solid #d8d8d8;background: #fff;line-height: 2.233rem;}
+.mg_wddd{width: 3.183rem;height: 2.233rem;margin-left: 0.6rem;font-size:0.4rem;float: left;}
+.mg_chakan{width: 5.383rem;height: 2.233rem;margin-left: 6.833rem;font-size: 0.3rem;float: left;}
+.mg_liebiao{width: 16rem;height: 3.25rem;background: #fff;font-size:0.266rem;border-top: 0.033rem solid #D8D8D8;}
+.mg_fukuan{width: 3.2rem;height: 3.25rem;float:left;color:#333;}
+.mg_fukuan img{width: 1.066rem;height: 0.916rem;margin-top:0.55rem;margin-left: 1.016rem;}
+.mg_daifu{text-align:center;margin-top:0.683rem;}
+.mg_yj_div1_3{width: 16rem;height: auto;margin-top:0.7rem;background: #fff;font-size: 0.3rem;}
+.mg_xinren{text-align: center;}
+.mg_xinren img{width: 3.516rem;height: 2.533rem;}
+.mg_dhz{width: 16rem;height:11.5rem;overflow:auto;}
+.mg_dhz1{width: 16rem;height: auto;float:left;}
+.mg_shoucang{width: 3.955rem;height:4.5rem;border-right: 0.033rem solid #d8d8d8;border-top:0.033rem solid #d8d8d8;float:left;}
+.mg_shoucang img{width: 3.95rem;height: 2.5rem;}
+.mg_shoucangjia{text-align:center;margin-top:0.683rem;}

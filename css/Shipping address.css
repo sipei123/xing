@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,h1,h2,h3,p,div{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+body{
+	background: #f9f9f9;
+}
+.rml_head{
+	width:16rem;
+	height:2.1037037037037036rem; 
+	border-bottom: 0.014814814814814815rem solid #afafaf;
+}
+.rml_head span{
+		display: block;
+		float: left;
+			height:2.1037037037037036rem ;
+		line-height:2.1037037037037036rem  ;
+		font-size: 0.7111111111111111rem;
+		margin-left: 0.32592592592592595rem;
+	}
+	.rml_head span a{
+		color: #424242;
+	}
+	.rml_head a{
+		display: block;
+		float: right;
+		
+	}
+	.rml_head img{
+		float: left;
+	
+	}
+	.rml_body{
+		width:16rem;
+		height:19.544444rem;
+		background: #ffffff;
+		
+	}
+	.rml_body_box{
+		width:16rem;
+		height:4.2518518518518515rem;
+		background: #ffffff;
+		border-bottom: 0.014814814814814815rem solid #f4f4f4;
+	}
+	.rml_body_R{
+		display: block;
+		float: right;
+		margin-right: 0.6074074074074074rem;
+	}
+	.rml_body_L{
+		width:15.022222222222222rem;
+		height: 4.2518518518518515rem;
+		background: #;
+		float: left;
+	}
+	.rml_name{
+		width:8.88888888888889rem;
+		height:0.7851851851851852rem;
+		display: block;
+		margin-left: 0.562962962962963rem;
+		float: left;
+		font-size: 0.7851851851851852rem;
+		margin-top: 0.8888888888888888rem;
+	}
+	.rml_phone{
+		width:5.274074074074074rem;
+		height:0.7851851851851852rem;
+		display: block;
+		float: left;
+		font-size: 0.7851851851851852rem;
+		margin-top: 0.8888888888888888rem;
+	}
+	.rml_body_L p{
+		width:13.25925925925926rem;
+		height:0.5925925925925926rem;
+		margin-left:0.562962962962963rem ;
+		font-size:0.562962962962963rem;
+		margin-top:0.4740740740740741rem;
+		float: left;
+		display: block;
+	}
+	.rml_body_L p span{
+		width: 2.925925925925926rem;
+		height: 0.9925925925925926rem;
+		display: block;
+		color: #f60201;
+			font-size:0.562962962962963rem;
+		float: left;
+	}
+      .footer{
+     	width:15.644444444444444rem;
+     	height:2.1333333333333333rem;
+     	background: #fe5200;
+     	line-height:2.1333333333333333rem ;
+     	text-align: center;
+     	font-size: 0.7407407407407407rem;
+     	color: #fff;
+     	position: absolute;
+     	bottom:0rem;
+     	display: block;
+     	border-radius:0.07407407407407407rem ;
+     	margin-left: 0.17777777777777778rem;
+     	
+     }
+     .footer a{
+     	display: block;
+     	width:15.644444444444444rem;
+     	height:2.1333333333333333rem;
+     	color: #fff;
+     } 
+
+
+
+
+
+
+
+
+
+
+

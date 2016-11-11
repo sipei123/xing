@@ -1,0 +1,97 @@
+body,ul,h1,h2,h3,p,div{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+*{list-style: none;font-size:0.18rem;}
+.syy-header{width:100%;height:2.1rem;background:#f9f9f9;border-bottom: 1px solid #b2aead;position: relative;top: 0;}
+
+.syy-dao {width: 100%;height: 2rem;}
+.syy-dao div{float: left;}
+.syy-tu {width:12.2216rem; height: 2rem;font-size: 0.9rem;margin-top:-0.5rem ;}
+
+.syy-tu img:nth-child(1){width:1.0816rem ;height: 0.8rem;margin-left: 0.32rem;margin-top: 0.32rem;}
+
+.syy-tu-1{width:0.8rem;height: 2rem;}
+.syy-tu-1 img{width:0.0148rem;height: 2rem;}
+.syy-tu-2{text-align:center;width: 1.216rem;height: 2rem; font-size: 0.32rem;margin-top: 0.48rem;margin-left: 1.12rem;}
+.syy-tu-2 a{text-decoration: none;}
+.syy-tu-2 img{width: 0.6816rem;height: 0.8rem;}
+
+.syy-zi-1{width:100%;height:1.4816rem;}
+.syy-zi-1 div{float: left;}
+.syy-zi-1 div:nth-child(1){color:#ff4f00;}
+.syy-zi-1 div:nth-child(2){margin-left: 0.833rem;color:#fff;background:#ff4f00;}
+
+
+.syy-zi-2{width:100%;height: 1.3336rem;font-size: 0.64rem;margin-top:0.6rem;color:#969696 ;float: left;}
+
+.syy-zi-3{font-size: 0.64rem;width:100%;color:#969696 ;height: 1.144rem;}
+.syy-zi-3 div{float: left;}
+.syy-zi-3 div:nth-child(2){margin-left:0.96rem;}
+.syy-zi-3 div:nth-child(3){margin-left:0.96rem;}
+.w-bing{width: 16rem; heigth:13.3rem;}
+#box{width: 16rem; height:19.614rem;}
+
+
+.syy-1{display: block;float:left;margin-left:1.04rem;}
+.syy-1 img{width:0.39rem;height:0.7rem;margin-top:0.74rem;}
+.syy-3{display: block;float: right;position: relative;}
+.syy-3 img{width:0.145rem;height:0.61rem;margin-top:0.74rem;
+margin-right:0.8rem;}
+.syy-2{display: block;float: right;}
+.syy-2 img{width:0.65rem;height:0.65rem;margin-top:0.74rem;
+margin-right:1.9rem;}
+.syy-4{position: absolute;display: block;right:0;}
+.syy-4 img{width:0.8rem;height:0.81rem;}
+.syy-top{width:100%;height:7.81rem;background:#fdf8f5;padding-top:0.52rem;}
+.syy-shop{display: block;font-size:0.95rem;font-weight: bold;margin-left:0.64rem;color:#dd2b29;}
+.syy-list li{float:left;display: block;color:#686667;}
+.syy-list li:nth-child(4) img{width:0.27rem;height:0.47rem;}
+.syy-list li:nth-child(4){float:right;}
+.syy-list li img{width:0.47rem;height:0.47rem;margin-right:0.22rem;
+margin-left:0.22rem;}
+.syy-list{width:14.9rem;height:1.17rem;border-bottom: 1px solid #f2e0de;margin:1rem auto;}
+.syy-list li span{line-height:0.5rem;float:right;font-weight: bold;}
+.syy-center{width:100%;height:2.22rem;background:#eeeeee;padding-top:0.5rem}
+.syy-conent{width:100%;height:1.8rem;background:white;border-bottom: 1px solid #dcdcdc;line-height: 1.8rem;font-size:0.53rem;font-weight: bold;}
+.syy-conent img{width:0.27rem;height:0.47rem;float:right;margin-top:0.6rem;margin-right:0.65rem}
+.syy-bottom{width:100%;height:5.42rem;}
+.syy-bt{font-size: 0.68rem;font-weight: bold;color:#636363;margin-top:0.5rem;display: block;margin-left:0.4rem;}
+.syy-list-y li:nth-child(1){width:2.96rem;height:1.33rem;border-radius: 0.3rem;background:#fbece9;font-size: 0.58rem;color:#636363;text-align: center;line-height: 1.33rem;}
+.syy-list-y li:nth-child(2){width:3.47rem;height:1.33rem;border-radius: 0.3rem;background:#fbece9;font-size: 0.58rem;color:#636363;text-align: center;line-height: 1.33rem;}
+.syy-list-y li:nth-child(3){width:3.97rem;height:1.33rem;border-radius: 0.3rem;background:#fbece9;font-size: 0.58rem;color:#636363;text-align: center;line-height: 1.33rem;}
+.syy-list-y li:nth-child(4){width:4.53rem;height:1.33rem;border-radius: 0.3rem;background:#fbece9;font-size: 0.58rem;color:#636363;text-align: center;line-height: 1.33rem;}
+.syy-list-y li:nth-child(5){width:3.97rem;height:1.33rem;border-radius: 0.3rem;background:#fbece9;font-size: 0.58rem;color:#636363;text-align: center;line-height: 1.33rem;}
+.syy-list-y li:nth-child(6){width:3.97rem;height:1.33rem;border-radius: 0.3rem;background:#f5f5f5;font-size: 0.58rem;color:#636363;text-align: center;line-height: 1.33rem;}
+.syy-list-y li{float:left;font-weight: bold;margin-right:0.67rem;margin-bottom: 0.67rem;}
+.syy-list-y{margin-left:0.52rem;margin-top:0.62rem;}
+.syy-pj{width:100%;height:3.01rem;}
+.syy-pj img{width:3.93rem;height:1.08rem;margin-left: 0.52rem;}
+.syy-pj1{width:9.26rem;height:1.63rem;margin-left: 0.52rem;}
+.syy-p1{font-size:0.504rem;font-weight: bold;}
+.syy-p2{font-size: 0.39rem;color:#989898;font-weight: bold;margin-top:0.5rem;display: block;}
+.syy-foor{width:100%;height:2.65rem;}
+.syy-btn{width:4.99rem;height:1.45rem;background: white;border:1px solid #ff5000;border-radius: 0.3rem;margin: auto;display: block;margin-top:0.5rem;color:#ff5000;font-size:0.56rem;font-weight: bold;}
+.syy-foor-b{width:100%;height:2.1rem;}
+.syy-f1{width:2.3rem;height:2.1rem;border-top:1px solid #cacaca;
+float:left;}
+.syy-f1 img{width:0.92rem;height:0.92rem;margin-left:0.7rem;margin-top:0.3rem;}
+.syy-f1 font{font-size:0.44rem;margin-left:0.7rem;font-weight: bold;}
+.syy-f2{width:3.9rem;height:2.1rem;border-top: 1px solid #cacaca;
+border-left:1px solid #cacaca;float:left;}
+.syy-f2 img{width:0.92rem;height:0.92rem;margin-top:0.3rem;margin-left:1.5rem;}
+.syy-f2 font{font-size:0.44rem;font-weight: bold;margin-left:0.7rem;}
+.syy-f2 span{font-size:0.44rem;font-weight: bold;color:#fc4c00;}
+.syy-btn1{width:9.1rem;height:2.1rem;background:#fe9100;text-align: center;line-height: 2.1rem;color:white;border: none;font-size:0.65rem;
+font-weight: bold;}
+.f8{width: 16rem;height: 2.162rem;margin: auto;bottom: 0;background:white;}
+.f8-1{float: left;width: 2.296rem;height: 2.162rem;}
+.f8-1 span{float: left;text-align: center;width: 2.296rem;height: 0.948rem;}
+.f8-1 span img{padding-top:0.4rem;width: 0.948rem;height: 0.948rem;}
+.f8-1 a{float: left;width: 2.296rem;height: 0.5rem;color: #999999;font-size: 0.3rem;line-height: 0.9rem;text-align: center;padding-top:0.4rem;}
+.f8-2{float: left;width: 3.955rem;height: 2.162rem;}
+.f8-2 span:nth-child(1){float: left;width: 3.955rem;height: 0.948rem;text-align: center;}
+.f8-2 span:nth-child(1) img{padding-top: 0.4rem;width: 0.948rem;height: 0.948rem;}
+.f8-2 span:nth-child(2){float: left;width: 3.955rem;height: 0.5rem;color: #999999;font-size: 0.3rem;line-height: 0.9rem;text-align: center;padding-top: 0.4rem;}
+.f8-3{float: right;width: 9.7rem;height: 2.162rem;line-height: 2.162rem;background: #E75711;text-align: center;}
+.f8-3 a{color: #fff;text-decoration: none;font-size: 1rem;}

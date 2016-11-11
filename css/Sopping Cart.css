@@ -1,0 +1,6 @@
+body,ul,h1,h2,h3,p,div{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+
+.sp_sopp{ width: 16rem; height:;}

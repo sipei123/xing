@@ -1,0 +1,61 @@
+<!doctype html>
+<html style="font-size:18px;">
+<!--1rem=60px-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=yes">
+<title>注册</title>
+<link href="../css/register.css" type="text/css" rel="stylesheet"/>
+<script type="text/javascript" src="../js/jquery-1.11.3.min.js"></script>
+<script src="../js/register.js"></script>
+<script type="text/javascript">
+window.onresize=function(){
+	document.documentElement.style.fontSize=innerWidth/16+'px';
+}
+	document.documentElement.style.fontSize=innerWidth/16+'px';
+</script>
+</head>
+
+<body>
+<!--头部开始-->
+<div class="header">
+	<div class="bt">
+    	<div class="bt-left">
+        	<a href="Home Page.html"><img src="../img/mg_jiantou.png" style="width:0.533rem;height:0.933rem;"/></a>
+            <h1>免费注册</h1>
+        </div>
+        <div class="bt-right">
+        	<a href="#">帮助</a>
+        </div>
+    </div>
+</div>
+<!--头部结束-->
+<!--内容-->
+<div class="main">
+    <div class="dlk">
+        <div class="dlk-top">
+            <span>国家地区</span>
+            <p><span>中国大陆+86</span>
+                <img src="../img/mg_jiantou-3.png" style="width:0.5rem;height:0.85rem;"/>
+            </p>
+        </div>
+        <div class="dlk-bottom">
+            <span>手机号</span>
+            <p><input type="text" placeholder="请输入手机号" id="mg_input1"/><span id="ma1"></span></p>
+        </div>
+        <div class="dlk-bottom">
+            <span>密码</span>
+            <p><input type="password" placeholder="请输入密码" id="mg_input2"/><span id="ma2"></span></p>
+        </div>
+    </div>
+    <div>
+        <ul>
+            <li><button id="mg_btn1"><a id="mg_a1">下一步</a></button></li>
+            <li>注册即视为同意<a href="#">窝窝头服务协议</a>和<a href="#">支付宝协议</a>系统将同步为您创建支付宝账号。</li>
+        </ul>
+    </div>
+</div>
+<!--内容-->
+</body>
+
+</html>

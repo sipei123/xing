@@ -1,0 +1,21 @@
+/* CSS Document */
+body,ul,h1,h2,h3,p,div{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+body{ background: #eeeeee;}
+
+.sp_data{ width: 16rem; height: 2.10rem; background: #f9f9f9;}
+.spp{ width: 0.47rem; height: 0.82rem; float: left;margin: 0.66rem 0 0 0.28rem;}
+.sp_data span{ font-size: 0.88rem; color: #434343; float: left; margin: 0.38rem 0 0 0.29rem; display: block; width: 4rem; height:0.8rem;}
+.spe{ width: 0.77rem; height:1.21rem ; float: right; margin: 0.26rem 0 0 0.4rem;}
+.sp_datas{ width: 16rem; height:12.2rem; background:#FFFFFF; float: left; margin: 0.59rem 0 0 0;}
+.sp_dhead{ width:15.4rem; height:3.58rem; float: right; border-bottom:0.1rem solid #e6e6e6 ;}
+.sp_dhead span{ font-size: 0.71rem; float: left; margin: 1.51rem 0 0 0; color: #3c4144;}
+.spl{ float: right;width: 0.31rem; height: 0.51rem; margin: 1.49rem 0.69rem; 0 	0;}
+.spk{ float: right; width: 2.48rem; height: 2.51rem; margin:0.51rem 0 0 1.06rem ;}
+.sp_dnc{ width: 15.4rem; height: 2.145rem; float: right; border-bottom:0.1rem solid #e6e6e6 ;}
+.sp_dnc-text{ font-size: 0.71rem; float: left; margin: 0.70rem 0 0 0; color: #3c4144;}
+.spl2{float: right;width: 0.31rem; height: 0.51rem; margin: 0.81rem 0.69rem; 0 0;}
+.sp_dnc-name{ float: right;font-size: 0.71rem;margin: 0.6rem 0 0 0; color: #3c4144;}
+.spz{ float: right; width: 0.88rem; height: 0.87rem; margin: 0.65rem 0.1rem 0 0;}

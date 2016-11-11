@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,h1,h2,h3,p,div{padding:0;margin:0;font-family:"微软雅黑";}
+li{list-style:none;}
+a{text-decoration:none;}
+input{outline: none;}
+
+
+	body{
+		background:#eeeeee;
+	}
+	.rml_Cookiehead{
+		width:16rem;
+		height:2.1037037037037036rem;
+		background: #f9f9f9;
+        border-bottom: 0.014814814814814815rem solid #b0b0b0;
+     
+	}
+	.rml_Cookiehead span{
+		display: block;
+		float: left;
+			height:2.1037037037037036rem ;
+		line-height:2.1037037037037036rem  ;
+		font-size: 0.7111111111111111rem;
+		margin-left: 0.32592592592592595rem;
+	}
+	.rml_Cookiehead span a{
+		color: #424242;
+	}
+	.rml_Cookiehead a{
+		display: block;
+		float: right;
+		
+	}
+	.rml_Cookiehead img{
+		float: left;
+	
+	}
+	.rml_Cookiebodyone{
+		width:16rem;
+		height:7.925925925925926rem;
+		background: #ffffff;
+		border-bottom: 0.014814814814814815rem solid #d8d8d8;
+		margin-top: 0.5333333333333333rem;
+	}
+	.rml_Cookiebodyone ul li{
+		width:16rem;
+		height: 1.9555555555555555rem;
+		float: left;
+		
+	}
+	.rml_Cookiebodyone ul li span{
+		display: block;
+        width:13.866666666666667rem;
+        height:1.9555555555555555rem;
+        border-bottom:0.014814814814814815rem solid #e6e6e6;
+        font-size:0.6814814814814815rem ;
+        color: #001725;
+        float: right;
+        line-height:1.9555555555555555rem ;
+	}
+	.rml_Cookiebodyone ul li span>a{
+		display: block;
+		float: right;
+		margin-right: 0.7111111111111111rem;
+		width:0.32592592592592595rem;
+		height:1.9555555555555555rem ;
+		margin-top: 0.1rem;
+	}
+	.rml_li{
+		display: block;
+		margin-left: 0.8rem;
+		float: left;
+	}
+	
+		.rml_Cookiebodytwo li{
+		width:16rem;
+		height: 1.9555555555555555rem;
+		float: left;
+		
+	}
+	.rml_Cookiebodytwo ul li span{
+		display: block;
+        width:13.866666666666667rem;
+        height:1.9555555555555555rem;
+        border-bottom:0.014814814814814815rem solid #e6e6e6;
+        font-size:0.6814814814814815rem ;
+        color: #001725;
+        float: right;
+        line-height:1.9555555555555555rem ;
+	}
+	.rml_Cookiebodytwo ul li span>a{
+		display: block;
+		float: right;
+		margin-right: 0.7111111111111111rem;
+		width:0.32592592592592595rem;
+		height:1.9555555555555555rem ;
+		margin-top: 0.1rem;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+     .rml_Cookiebodytwo{
+     	width:16rem;
+     	height:3.9407407407407407rem ;
+     	background: #ffffff;
+     	border-bottom: 0.014814814814814815rem solid #d8d8d8;
+     	margin-top: 0.562962962962963rem;
+     }
+     .footer{
+     	width:16rem;
+     	height:2.1333333333333333rem;
+     	background: #fe5200;
+     	line-height:2.1333333333333333rem ;
+     	text-align: center;
+     	font-size: 0.7407407407407407rem;
+     	color: #fff;
+     	position: absolute;
+     	bottom:0rem;
+     	display: block;
+     }
+     .footer a{
+     	display: block;
+     	width:16rem;
+     	height:2.1333333333333333rem;
+     	color: #fff;
+     }
+
+
+
+
